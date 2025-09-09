@@ -15,4 +15,4 @@ Research interests
 ======
 My primary research interest lies in the Langlands program and its various extensions. I'm particularly interested in the theory of theta correspondence, which is an enigmatic but powerful tool in the study of the Langlands program.
 
-You can find my CV here: [Rui Chen's Curriculum Vitae](../rchenmat94/assets/CVRuiChen2025Aug.pdf).
+You can find my CV here: [Rui Chen's Curriculum Vitae](https://sato-sugar.github.io/rchenmat94/assets/CVRuiChen2025Aug.pdf).
