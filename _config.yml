@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "RuiChenAvatar25.png"
-  name             : "Rui Chen"
+  name             : #"Rui Chen"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Hangzhou, China"
