@@ -1,4 +1,3 @@
-
 ---
 title: "Local Langlands correspondence for unitary groups via theta lifts"
 collection: publications
