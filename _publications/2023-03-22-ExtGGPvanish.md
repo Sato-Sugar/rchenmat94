@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/2023-03-22-ExtGGPvanish
 excerpt: "In this paper I proved a conjecture of D. Prasad on the vanishing of Ext-analogues of Gan-–Gross–-Prasad models. This result can be regarded as a Kodaira's vanishing theorem in the branching laws."
-date: 2023-03-33
+date: 2023-03-22
 venue: 'arXiv:2303.12619'
 paperurl: 'https://arxiv.org/abs/2303.12619'
 ---
