@@ -1,13 +1,12 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "On non-tempered GGP problem"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+venue: "Conference on relative langlands program"
+date: 2025-08-13
+location: "Kunming, China"
 ---
 
-[More information here](http://example2.com)
+[Conference information](http://tianyuan.amss.ac.cn/ztyt/info/2025/145940.html)
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+A much studied branching problem in representation theory of reductive groups is the so called Gan--Gross--Prasad (GGP) problem. The original GGP problem concerns tempered representations, and recently it has been extended to Arthur type representations. In this talk we will review the current status of the non-tempered GGP problem, and present some recent progress on this problem and a twisted variant of it.
