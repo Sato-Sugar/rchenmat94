@@ -3,7 +3,7 @@ title: "Arthur's multiplicity formula for even orthogonal and unitary groups"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-09-AMForthogonalNunitary
-excerpt: 'This is a joint work with Jialiang Zou, we established Arthur's multiplicity formula for non-quasi-split even orthogonal and unitary groups.'
+excerpt: 'This is a joint work with Jialiang Zou, we established Arthurs multiplicity formula for non-quasi-split even orthogonal and unitary groups.'
 date: 2024-12-09
 venue: 'Journal of the European Mathematical Society'
 paperurl: 'https://ems.press/journals/jems/articles/14298407'
