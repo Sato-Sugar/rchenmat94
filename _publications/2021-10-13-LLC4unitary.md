@@ -3,12 +3,9 @@ title: "Local Langlands correspondence for unitary groups via theta lifts"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-10-13-LLC4unitary
-excerpt: 'This paper.'
+excerpt: 'This is a joint work with Jialiang Zou, we established the local Langlands correspondence for non-quasi-split unitary groups.'
 date: 2021-10-13
 venue: 'Representation Theory'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://sato-sugar.github.io/rchenmat94/files/2021-10-13-LLC4unitary.pdf'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Using the theta correspondence, we extend the classification of irreducible representations of quasi-split unitary groups (the so-called local Langlands correspondence, which is due to Mok) to non quasi-split unitary groups. We also prove that our classification satisfies some good properties, which characterize it uniquely. In particular, this paper provides an alternative approach to the works of Kaletha--Minguez--Shin--White and Moeglin--Renard.
