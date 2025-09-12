@@ -1,7 +1,6 @@
 ---
 title: "On non-tempered GGP problem"
 collection: talks
-type: "Talk"
 permalink: /talks/2025-08-13-talk-On_non-tempered_GGP
 venue: "Conference on relative langlands program"
 date: 2025-08-13
