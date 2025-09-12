@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I'm an assistant professor at the [School of Mathematical Sciences](http://www.math.zju.edu.cn), Zhejiang University.
 
-Previously, I was a postdoctoral researcher at the [Institute for Advanced Study in Mathematics](http://www.iasm.zju.edu.cn), Zhejiang University.
+Previously, I was a postdoctoral researcher at the [Institute for Advanced Study in Mathematics](http://www.iasm.zju.edu.cn), Zhejiang University. My mentor was Prof. Yifeng Liu.
 
 I obtained my Ph.D. in 2021 at the [National University of Singapore](https://www.math.nus.edu.sg) under the supervision of Prof. Wee Teck Gan.
 
