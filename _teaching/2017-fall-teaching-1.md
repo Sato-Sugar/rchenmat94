@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-fall-teaching-1
 venue: "National University of Singapore, Department of Mathematics"
-date: 2017
+date: 2017-09-01
 location: "Singapore"
 ---
 
