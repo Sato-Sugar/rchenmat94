@@ -3,7 +3,7 @@ title: "Calculus (tutorial)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-fall-teaching-1
-venue: "National University of Singapore, Department of Mathematics"
+venue: "Department of Mathematics, National University of Singapore"
 date: 2017-09-01
 location: "Singapore"
 ---
