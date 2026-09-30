@@ -1,7 +1,7 @@
 ---
 title: "Godement–Jacquet L-function and homological theta lifting"
 collection: publications
-category: manuscripts
+category: preprint
 permalink: /publication/2025-07-10-LfunctionNHtheta
 excerpt: "This is a joint work with Yufeng Li, Xiaohuan Long, Chenhao Tang and Jialiang Zou, we studied the relation between the analytic property of the local L-function and Ext-theta lifting. This is an outcome of the summer school `Algebra and Number Theory 2024'."
 date: 2025-07-10
